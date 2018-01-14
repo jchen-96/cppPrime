@@ -1,0 +1,6 @@
+enter i:
+enter j:
+sum is 8
+enter i:
+enter j:
+sum is 8
